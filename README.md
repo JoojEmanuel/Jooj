@@ -1,4 +1,4 @@
-### ola! Eu sou Jooj Emanuel Sou Estudante de Informatica para Internet!
+### Ola! Eu sou Jooj Emanuel Sou Estudante de Informatica para Internet!
 
 <div align="center">
   <a href="https://github.com/dsouloficial">

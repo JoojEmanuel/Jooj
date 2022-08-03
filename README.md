@@ -1,9 +1,9 @@
 ### Ola! Eu sou Jooj Emanuel Sou Estudante de Informatica para Internet!
 
 <div align="center">
-  <a href="https://github.com/dsouloficial">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dsouloficial&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsouloficial&theme=dracula&hide_border=false&&layout=compact"/>
+  <a href="https://github.com/JoojEmanuel">
+    <img height="150em" src="https://cdn.discordapp.com/attachments/656575681676705805/1004376227559248013/unknown.png"/>
+    <img height="150em" src="https://cdn.discordapp.com/attachments/656575681676705805/1004385654198775808/unknown.png"/>
     
     
     ### Tecnologias que eu uso no meu dia a dia
@@ -15,3 +15,7 @@
 
   <img align="center" alt="dsouloficial-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="dsouloficial-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
